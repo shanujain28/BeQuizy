@@ -1,4 +1,5 @@
 ## BeQuizy 🧠 : _Online Quiz App_
+Made with ❤️ by MD ZAFAR 
 
 ![Image](https://github.com/user-attachments/assets/d6ff2513-1481-4f44-b7ba-9581468486c6)
 
