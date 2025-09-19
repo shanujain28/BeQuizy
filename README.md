@@ -15,4 +15,16 @@ Test your General Knowledge with interactive quizzes powered by a trivia API, al
 - 🏆 **Score Summary Screen** – Displays results with retry option  
 - 🎨 **Modern Design** – Pacific & linen theme with optional cyan highlights, responsive layout, and smooth animations  
 
-🔗 [Live Demo](https://mdzafar99.github.io/BeQuizy/)
+---
+
+## 🛠️ Tech Stack
+- **Frontend:** HTML, CSS, JavaScript
+- **API:** Open Trivia DB API
+- **Other Tools:** GitHub, VS Code
+
+---
+
+🔗 Live Demo
+[BeQuizy](https://mdzafar99.github.io/BeQuizy/)
+
+---
